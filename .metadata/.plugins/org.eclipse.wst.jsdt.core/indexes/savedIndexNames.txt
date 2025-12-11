@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\HMRS Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2050583223.index
+3084621776.index
+2838125699.index
+2965013767.index
+850660197.index
+1215208762.index
+4279637386.index

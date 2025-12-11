@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Human Resource Management">
+        <property name="context-root" value="Human_Resource_Management"/>
+    </wb-module>
+</project-modules>
