@@ -82,7 +82,7 @@ A comprehensive web-based Human Resource Management System built with Java, JSP,
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Luck858/HRMS-Project-java.git
+git clone https://github.com/bhavyasrikandukuri/HRMS-Project.git
 cd HRMS-Project-java
 ```
 
